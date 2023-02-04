@@ -1,4 +1,4 @@
-Front End Development Libraries - Build a Markdown Previewer
+# Front End Development Libraries - Build a Markdown Previewer
 
 Objective: Build an app that is functionally similar to this: https://markdown-previewer.freecodecamp.rocks/.
 
